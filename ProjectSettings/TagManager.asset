@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DamageObject
+  - FallFloor
+  - Enemy
+  - MoveFloor
+  - HitArea
+  - Ground
+  - DeadArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 353610427
+    locked: 0
+  - name: BackGroundTilemap
+    uniqueID: 843449615
+    locked: 0
+  - name: BackGroundObject
+    uniqueID: 299745435
+    locked: 0
+  - name: StageTilemap
+    uniqueID: 2411874425
+    locked: 0
+  - name: BehindObject
+    uniqueID: 3968438385
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Coin
+    uniqueID: 3534837493
+    locked: 0
+  - name: Block
+    uniqueID: 2494971979
+    locked: 0
+  - name: UI
+    uniqueID: 4086813705
+    locked: 0
